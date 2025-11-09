@@ -1,16 +1,14 @@
-## Hi there 👋
+[![header](https://i.pinimg.com/originals/f4/01/26/f40126aa586f66ffeb75b4e183e3fe8f.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "What are you looking for here")
 
-<!--
-**saberuwu/saberuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Beginner programmer
 
-Here are some ideas to get you started:
+    >> about me
+    > I am 19 years old and I am a beginner programmer, as well as 
+    > a student at the Moscow Power Engineering Institute, where I 
+    > study applied mathematics and computer science (mathematical 
+    > modeling).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+    >> information
+        i use astra btw
