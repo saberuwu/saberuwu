@@ -27,4 +27,8 @@
 [![github](https://img.shields.io/badge/github%20-000000?style=for-the-badge&logo=github)](https://github.com "What are you looking for here 👁")
 [![amd](https://img.shields.io/badge/amd%20-000000?style=for-the-badge&logo=amd)](https://www.amd.com/en.html "What are you looking for here 👁")
 
+#
+
+[![job_application](https://i.pinimg.com/474x/75/f0/0f/75f00fc9656aa5020b3c11bc9ba69dee.jpg?nii=t)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "What are you looking for here 👁")
+
 ## That's all for now.
