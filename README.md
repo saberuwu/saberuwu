@@ -27,6 +27,7 @@
 [![git](https://img.shields.io/badge/git%20-000000?style=for-the-badge&logo=git)](https://github.com/git-guides "What are you looking for here 👁")
 [![github](https://img.shields.io/badge/github%20-000000?style=for-the-badge&logo=github)](https://github.com "What are you looking for here 👁")
 [![amd](https://img.shields.io/badge/amd%20-000000?style=for-the-badge&logo=amd)](https://www.amd.com/en.html "What are you looking for here 👁")
+[![SQL](https://img.shields.io/badge/Postgre%20SQL%20-000000?style=for-the-badge&logo=postgresql)](https://ru.wikipedia.org/wiki/SQL  "What are you looking for here 👁")
 
 #
 
