@@ -4,7 +4,7 @@
 # Beginner programmer
 
     >> about me
-    > I am 19 years old and I am a beginner programmer, as well as 
+    > I am 20 years old and I am a beginner programmer, as well as 
     > a student at the Moscow Power Engineering Institute, where I 
     > study applied mathematics and computer science (mathematical 
     > modeling).
